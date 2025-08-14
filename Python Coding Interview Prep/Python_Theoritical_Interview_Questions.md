@@ -9,21 +9,21 @@
 ## 2. What are the distinct features of Python?
 
 > 1. Structured and functional programmings are supported.
->    Structured programming means writing code in a clear, linear flow using functions, loops, and conditionals.
->    Functional programming is a style where functions are treated as first-class objects and supports features like higher-order functions, map/filter, and immutability.
-> 2. It can be compiled to byte-code for creating larger applications.
+>     Structured programming means writing code in a clear, linear flow using functions, loops, and conditionals.
+>     Functional programming is a style where functions are treated as first-class objects and supports features like higher-order functions, map/filter, and immutability.
+> 3. It can be compiled to byte-code for creating larger applications.
 >    Python code is not directly compiled to machine code but to byte-code, an intermediate low-level representation.
 >    This byte-code is executed by the Python Virtual Machine (PVM).
 >    This makes Python suitable for larger applications, as byte-code files (.pyc) load faster than raw scripts.
-> 3. Develops high-level dynamic data types.
+> 5. Develops high-level dynamic data types.
 >    Python provides built-in high-level data types like:
 >        Lists, Dictionaries, Sets, Tuples, Strings
 >    These data types are dynamic, meaning:
           They can grow or shrink as needed.
           You don’t need to specify sizes upfront.
-> 4. Supports checking of dynamic data types.: Python is dynamically typed, meaning variable types are determined at runtime.
-> 6. Applies automated garbage collection.:Python automatically manages memory using garbage collection.
-> 7. It could be used effectively along with Java, COBRA, C, C++, ActiveX, and COM.
+> 7. Supports checking of dynamic data types.: Python is dynamically typed, meaning variable types are determined at runtime.
+> 8. Applies automated garbage collection.:Python automatically manages memory using garbage collection.
+> 9. It could be used effectively along with Java, COBRA, C, C++, ActiveX, and COM.
 
 ---
 
