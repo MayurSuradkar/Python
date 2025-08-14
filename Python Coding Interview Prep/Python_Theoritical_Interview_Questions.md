@@ -9,11 +9,21 @@
 ## 2. What are the distinct features of Python?
 
 > 1. Structured and functional programmings are supported.
+>    Structured programming means writing code in a clear, linear flow using functions, loops, and conditionals.
+>    Functional programming is a style where functions are treated as first-class objects and supports features like higher-order functions, map/filter, and immutability.
 > 2. It can be compiled to byte-code for creating larger applications.
+>    Python code is not directly compiled to machine code but to byte-code, an intermediate low-level representation.
+>    This byte-code is executed by the Python Virtual Machine (PVM).
+>    This makes Python suitable for larger applications, as byte-code files (.pyc) load faster than raw scripts.
 > 3. Develops high-level dynamic data types.
-> 4. Supports checking of dynamic data types.
-> 5. Applies automated garbage collection.
-> 6. It could be used effectively along with Java, COBRA, C, C++, ActiveX, and COM.
+>    Python provides built-in high-level data types like:
+>        Lists, Dictionaries, Sets, Tuples, Strings
+>    These data types are dynamic, meaning:
+          They can grow or shrink as needed.
+          You don’t need to specify sizes upfront.
+> 4. Supports checking of dynamic data types.: Python is dynamically typed, meaning variable types are determined at runtime.
+> 6. Applies automated garbage collection.:Python automatically manages memory using garbage collection.
+> 7. It could be used effectively along with Java, COBRA, C, C++, ActiveX, and COM.
 
 ---
 
@@ -74,7 +84,19 @@
 ## 10. Do runtime errors exist in Python? Give an example?
 
 > Yes, runtime errors exist in Python. For example, if you are duck typing and things look like a duck, then it is considered as a duck even if that is just a flag or stamp or any other thing. The code, in this case, would be A Run-time error. For example, Print “Hackr io”, then the runtime error would be the missing parenthesis that is required by print ( ).
+Example of a Runtime Error in Python:
+# Division by zero runtime error
+a = 10
+b = 0
+result = a / b  # This will cause a runtime error: ZeroDivisionError
+print(result)
+Output/Error:
+ZeroDivisionError: division by zero
 
+Another example:
+# Trying to access an index that doesn't exist
+my_list = [1, 2, 3]
+print(my_list[5])  # Raises IndexError at runtime
 ---
 
 ## 11. Why do we need a break in Python?
@@ -148,13 +170,16 @@
 ## 19. Why do we need membership operators in Python?
 
 > We need membership operators in Python with the purpose to confirm if the value is a member in another or not.
-
+ Using 'in', Using 'not in'
 ---
 
 ## 20. How are identity operators different than the membership operators?
 
 > Unlike membership operators, the identity operators compare the values to find out if they have the same value or not.
-
+identity operation : is, is not
+> Explanation:
+is checks object identity — do a and b refer to the exact same object in memory?
+== checks value equality — do a and b have the same content/values?
 ---
 
 ## 21. Describe how multithreading is achieved in Python?
@@ -215,7 +240,14 @@
 > The map() function applies a given function to each item of an iterable. It then returns a list of the results. The value returned from the map() function can then be passed on to functions to the likes of the list() and set().
 >
 > Typically, the given function is the first argument and the iterable is available as the second argument to a map() function. Several tables are given if the function takes in more than one arguments.
+Example:
+def square(x):
+    return x * x
 
+numbers = [1, 2, 3, 4, 5]
+squared_numbers = map(square, numbers)
+
+print(list(squared_numbers))
 ---
 
 ## 28. How will you distinguish between NumPy and SciPy?
