@@ -85,16 +85,15 @@
 
 > Yes, runtime errors exist in Python. For example, if you are duck typing and things look like a duck, then it is considered as a duck even if that is just a flag or stamp or any other thing. The code, in this case, would be A Run-time error. For example, Print “Hackr io”, then the runtime error would be the missing parenthesis that is required by print ( ).
 Example of a Runtime Error in Python:
-# Division by zero runtime error
+>  Division by zero runtime error
 a = 10
 b = 0
 result = a / b  # This will cause a runtime error: ZeroDivisionError
 print(result)
 Output/Error:
 ZeroDivisionError: division by zero
-
-Another example:
-# Trying to access an index that doesn't exist
+>Another example:
+Trying to access an index that doesn't exist
 my_list = [1, 2, 3]
 print(my_list[5])  # Raises IndexError at runtime
 ---
