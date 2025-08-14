@@ -176,8 +176,10 @@ print(my_list[5])  # Raises IndexError at runtime
 
 > Unlike membership operators, the identity operators compare the values to find out if they have the same value or not.
 identity operation : is, is not
+>
 > Explanation:
-is checks object identity — do a and b refer to the exact same object in memory?
+>
+> is checks object identity — do a and b refer to the exact same object in memory?
 == checks value equality — do a and b have the same content/values?
 ---
 
@@ -239,13 +241,13 @@ is checks object identity — do a and b refer to the exact same object in memor
 > The map() function applies a given function to each item of an iterable. It then returns a list of the results. The value returned from the map() function can then be passed on to functions to the likes of the list() and set().
 >
 > Typically, the given function is the first argument and the iterable is available as the second argument to a map() function. Several tables are given if the function takes in more than one arguments.
-Example:
+>
+> Example:
 def square(x):
     return x * x
-
-numbers = [1, 2, 3, 4, 5]
+>
+> numbers = [1, 2, 3, 4, 5]
 squared_numbers = map(square, numbers)
-
 print(list(squared_numbers))
 ---
 
