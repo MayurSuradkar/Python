@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 13, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 14, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4k11)
-- [Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf)
-- [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4)
-- [I Switched to the Agent Toolkit for AWS. Here's Why.](https://dev.to/aws/i-switched-to-the-agent-toolkit-for-aws-heres-why-5hf)
-- [Frameworks Rot. The Platform Doesn't.](https://dev.to/sebs/frameworks-rot-the-platform-doesnt-58g0)
+- [Teach Your Agent to Forget (On Purpose)](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh)
+- [The Rust You Actually Need to Write Your First Anchor Program](https://dev.to/100daysofsolana/the-rust-you-actually-need-to-write-your-first-anchor-program-4klc)
+- [Solstice Runner — A Browser Game Tribute to Alan Turing](https://dev.to/makendrang/solstice-runner-a-browser-game-tribute-to-alan-turing-52fc)
+- [From 5 Seconds to 50ms: How I Stopped Nuking My Database Every Time I Deleted an Order](https://dev.to/akashpattnaik/from-5-seconds-to-50ms-how-i-stopped-nuking-my-database-every-time-i-deleted-an-order-30l0)
+- [How I Built KisanX — A Full-Stack Agricultural Marketplace](https://dev.to/saniya1207/how-i-built-kisanx-a-full-stack-agricultural-marketplace-57km)
 <!-- END_TRENDING -->
 
 ---
