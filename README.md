@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 27, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 28, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Never forget to enter the Stern Grove lottery again!](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1)
-- [Dev Opportunity Radar #5: A Fully Funded Trip to AWS re:Invent, Google Cloud Career Launchpad, and a $1,000 Award](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e)
-- [Functional doesn't mean correct. That's the biggest risk with AI-generated code.](https://dev.to/cyclopt_dimitrisk/functional-doesnt-mean-correct-thats-the-biggest-risk-with-ai-generated-code-29dh)
-- [AI is not replacing developers anytime soon](https://dev.to/czmirek/ai-is-not-replacing-developers-anytime-soon-2l26)
+- [Engineering a Brainrot art installation on an Orange Pi Zero 🍊](https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk)
+- [A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Supply Chain Attack](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h)
+- [I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5)
+- [Choreography of validation: how to make your auth form seamless and usable](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm)
+- [Adding io::ErrorKind::TooManyOpenFiles to Rust](https://dev.to/valentynkit/adding-ioerrorkindtoomanyopenfiles-to-rust-4h0k)
 <!-- END_TRENDING -->
 
 ---
