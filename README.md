@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 09, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 10, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Into the void](https://dev.to/pauljlucas/into-the-void-4h69)
-- [I Know the Recipe. I Miss the Winter Kitchen.](https://dev.to/shubhradev/i-know-the-recipe-i-miss-the-winter-kitchen-39ea)
-- [I Explained My Code While Writing It on Camera. Here’s What Surprised Me](https://dev.to/cathylai/i-explained-my-code-while-writing-it-on-camera-heres-what-surprised-me-3bp)
-- [Who Named This ReAct? I'd Like to Speak to the Manager.](https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg)
-- [Frontend system design interviews are weird. Here’s how I now approach functional requirements.](https://dev.to/ale3oula/frontend-system-design-interviews-are-weird-heres-how-i-now-approach-functional-requirements-3ea6)
+- [Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635)
+- [Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.](https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9)
+- [🛻CSS Art: Smoothie Food Truck](https://dev.to/annavi11arrea1/css-art-smoothie-food-truck-36gg)
+- [🏦 Vaya: an AI loan advisor that asks whether you can still afford to live](https://dev.to/minhlong2605/vaya-an-ai-loan-advisor-that-asks-whether-you-can-still-afford-to-live-gkc)
+- [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
 <!-- END_TRENDING -->
 
 ---
