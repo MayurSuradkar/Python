@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 18, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 19, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar 🚀](https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec)
-- [Could I Still Do This From Scratch?](https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h)
-- [AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)
-- [The Arrogance of Having Outgrown Arrogance](https://dev.to/adamthedeveloper/the-arrogance-of-having-outgrown-arrogance-1pl1)
-- [Day 85: A Task That Always Changes and Two Halves](https://dev.to/ndcodes/day-85-one-direction-and-two-halves-5cic)
+- [The CodeNewbie Podcast is Back for Season 28!](https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484)
+- [Is Coding with AI Actually Faster and Cheaper?](https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810)
+- [25 Editions of Dev Opportunity Radar: From My Radar to Our Radar 💙 + AMA](https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5)
+- [One Year on DEV: The People Made the Platform](https://dev.to/hanzla/one-year-on-dev-the-people-made-the-platform-hab)
+- [Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.](https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh)
 <!-- END_TRENDING -->
 
 ---
