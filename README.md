@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 23, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 24, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Necoz Is Building a New House!! 🛸 All Cats, Follow Me!! 🐈🚀](https://dev.to/necoz/necoz-is-building-a-new-house-all-cats-follow-me-530n)
-- [I turned my GitHub contribution graph into a Bloomberg-style trading terminal](https://dev.to/necoz/i-turned-my-github-contribution-graph-into-a-bloomberg-style-trading-terminal-31eh)
-- [Day 90: A Mask in the Way and a Policy Pointing at Nothing](https://dev.to/ndcodes/day-90-a-mask-in-the-way-and-a-policy-pointing-at-nothing-390o)
-- [Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge](https://dev.to/amananandrai/monuments-of-india-part-4-100-new-monuments-from-harappan-dholavira-to-the-chenab-rail-bridge-3n6p)
-- [Wrist vs Camera: Can I Trust a Camera Pulse on My Own Laptop?](https://dev.to/dannwaneri/wrist-vs-camera-can-i-trust-a-camera-pulse-on-my-own-laptop-4g3o)
+- [What are you Grateful for this Thanksgiving?](https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570)
+- [Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo](https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9)
+- [Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136)
+- [C# 15 Unpacked: Practical Use Cases for Unions with Real Examples](https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32)
+- [Rent the Job. Own the Life.](https://dev.to/aws-heroes/rent-the-job-own-the-life-12g3)
 <!-- END_TRENDING -->
 
 ---
